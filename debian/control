@@ -1,7 +1,7 @@
 Source: scibian-nvidia
 Section: scibian
 Priority: optional
-Maintainer: Scibian Packaging Team <packaging@scibian.org>
+Maintainer: Scibian Project <packaging@scibian.org>
 Build-Depends: debhelper (>= 12)
 Standards-Version: 4.3.0
 Vcs-Git: https://github.com/scibian/scibian-nvidia.git
